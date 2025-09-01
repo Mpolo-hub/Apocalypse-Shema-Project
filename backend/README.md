@@ -4,7 +4,7 @@ API REST pour le traitement des requêtes et l'intégration IA.
 
 ## 🚀 Stack
 - **Framework** : FastAPI (Python)
-- **Base de données** : PostgreSQL
+- **Base de données** : PostgreSQL or Firebase
 - **Deploy** : Railway
 
 ## 🎯 Endpoints
